@@ -8,7 +8,7 @@ class Footer extends Component {
           <div className="twelve columns">
             <ul className="copyright">
               <li style={{ color: "white" }}>
-                &copy; Copyright 2021 WahyuHidayat
+                &copy; Copyright 2024 WahyuHidayat
               </li>
             </ul>
           </div>
