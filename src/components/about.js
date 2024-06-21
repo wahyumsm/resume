@@ -35,7 +35,7 @@ class About extends Component {
                   <span>Wahyu Hidayat</span>
                   <br />
                   <span>
-                    19-11-2002
+                    19-11-2001
                     <br />
                     Pekanbaru, Indonesia
                   </span>
