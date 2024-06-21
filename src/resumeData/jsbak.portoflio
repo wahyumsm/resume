@@ -1,0 +1,60 @@
+  // "portfolio": {
+  //   "projects": [
+  //     {
+  //       "title": "Articles",
+  //       "description": "Medium Article",
+  //       "category": "Medium Article",
+  //       "image": "medium.png",
+  //       "url": "https://shanshaji.medium.com/"
+  //     },
+  //     {
+  //       "title": "Bubble Chart",
+  //       "description": "React Bubble chart with help of d3.js",
+  //       "category": "Npm Plugin",
+  //       "image": "js.png",
+  //       "url": "https://www.npmjs.com/package/react-d3-bubble"
+  //     },
+  //     {
+  //       "title": "Table Boy",
+  //       "description": "An easy to use react table with server side pagination and server side sorting, which makes creating tables fun. No jquery dependancy",
+  //       "category": "Npm Plugin",
+  //       "image": "js.png",
+  //       "url": "https://www.npmjs.com/package/table-boy"
+  //     },
+  //     {
+  //       "title": "Just Drag",
+  //       "description": "A HOC which will turn wrapped elements draggable",
+  //       "category": "Npm Plugin",
+  //       "image": "js.png",
+  //       "url": "https://www.npmjs.com/package/just-drag"
+  //     },
+  //     {
+  //       "title": "Cricket Game",
+  //       "description": "An Incremental design workshop",
+  //       "category": "Ruby",
+  //       "image": "ruby.png",
+  //       "url": "https://github.com/shanshaji/Cricket"
+  //     },
+  //     {
+  //       "title": "Ecommerce App",
+  //       "description": "A basic ecommerce application",
+  //       "category": "Ruby",
+  //       "image": "ruby.png",
+  //       "url": "https://github.com/shanshaji/Ecommerce"
+  //     },
+  //     {
+  //       "title": "Mars Rover",
+  //       "description": "Mars Rover Problem Design",
+  //       "category": "Ruby",
+  //       "image": "ruby.png",
+  //       "url": "https://github.com/shanshaji/mars-rover"
+  //     },
+  //     {
+  //       "title": "Dragon PvP Game",
+  //       "description": "Local Multiplayer 2D Game",
+  //       "category": "Dragon Ruby",
+  //       "image": "dragonruby-black.png",
+  //       "url": "https://shanshaji.itch.io/dragon-pvp"
+  //     }
+  //   ]
+  // }

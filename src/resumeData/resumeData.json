@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Wahyu Hidayat",
+    "occupation": "Full Stack Engineer",
+    "description": "I mostly work with Ruby on Rails and JavaScript",
+    "bio": "End to End Product Developer with immense passion towards Rails and React",
+    "email": "kurangwahyu@gmail.com",
+    "phone": "085375822726",
+    "address": {
+      "street": " Kubang Jaya",
+      "city": "Pekanbaru",
+      "state": "Indonesia"
+    },
+
+    "resumedownload": "../../public/resume.pdf",
+    "social": [
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/6285375822726",
+        "className": "fa fa-whatsapp"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/wahyu-hidayat-496060240/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/wahyuhidayadd/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "COURSES KEYWORLD EDUCATION ",
+        "degree": "PROGRAMMING IT",
+        "graduated": "March 2022",
+        "description": "Learned the basics of Web Dev &Mobile Dev "
+      },
+      {
+        "school": "BUILD WITH ANGGA Academy",
+        "degree": "Software Development",
+        "graduated": "Juni 2023",
+        "description": "Learned the  Full Stack Javascript With React + Node JS "
+      }
+    ],
+    "work": [
+      {
+        "company": "GARUDA CYBER",
+        "title": " Intern Software Developer ",
+        "years": "Agustus 2022 - November 2022",
+        "description": "Built a call center management application using PHP Dan CodeIgniter4 & Mysql"
+      },
+      {
+        "company": "ASSIST ID",
+        "title": " Software Developer",
+        "years": "November  2022 -April 2023",
+        "description": "Worked on multiple projects using react +RestfullAPI+Material UI."
+      },
+      {
+        "company": "SMART CENTER INDONESI",
+        "title": "TEACHING PROGRAMMING IT",
+        "years": "Mei 2023 - Desember 2023",
+        "description": "Teaching students online Bassic Javascript and PHP, as well as creating applications based on Javascript React and PHP Native "
+      },
+      {
+        "company": "Mulia Sawit AGro Lestari",
+        "title": "Full Stack Engineer",
+        "years": "Agustus 2023 - April 2024",
+        "description": "Worked on multiple projects using React + Laravel API, as well as designing Business Flow Projects, and presenting to clients the applications that have been created, as well as maintaining websites that have errors, and updating any old features, and creating Android applications using React Native."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "React JS",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "Node JS",
+        "level": "80%"
+      },
+      {
+        "name": "Express JS",
+        "level": "90%"
+      },
+      {
+        "name": "PHP Framework",
+        "level": "80%"
+      },
+      {
+        "name": "MYSQL+PostgreeSQL",
+        "level": "78%"
+      },
+      {
+        "name": "Figma UI",
+        "level": "70%"
+      },
+      {
+        "name": "Project Management",
+        "level": "77%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project Assist ID ",
+        "description": "Medium Article",
+        "category": "WEB REACT ",
+        "image": "dokter.png",
+        "url": "https://assist.id"
+      },
+      {
+        "title": "SMART CENTER INDONESIA",
+        "description": "React Bubble chart with help of d3.js",
+        "category": "WEBSITE COMPANY Profile",
+        "image": "web.webp",
+        "url": "https://scipekanbaru.com"
+      },
+      {
+        "title": "MSAL GROUP",
+
+        "category": "Project Sistem PALM OIL ",
+        "image": "msal.jpg",
+        "url": "https://msalgroup.com/homepage/about.html"
+      },
+      {
+        "title": "Project Garuda Cyber",
+
+        "category": "Project Intern ",
+        "image": "gci.png",
+        "url": "https://garudacyber.co.id/login"
+      },
+      {
+        "title": "Medical Klinik",
+
+        "category": "App Klinik",
+        "image": "klink.jpeg",
+        "url": "https://pengobatanpenyakitdalam.com/"
+      },
+      {
+        "title": "Dashboard App Financial",
+        "description": "A basic ecommerce application",
+        "category": "Dashboard App Financial Transfer ",
+        "image": "eze.jpeg",
+        "url": "https://ezeelink.co.id/"
+      },
+
+      {
+        "title": "Lottery Draw Freelancer",
+        "description": "Local Multiplayer 2D Game",
+        "category": "Laravel App ",
+        "image": "grend.png",
+        "url": "https://greenlandpools.com/"
+      }
+    ]
+  }
+}
