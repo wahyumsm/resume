@@ -105,6 +105,22 @@
     ],
     "skills": [
       {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Bootstrapp",
+        "level": "100%"
+      },
+      {
+        "name": "Material UI",
+        "level": "100%"
+      },
+      {
         "name": "JavaScript",
         "level": "95%"
       },
@@ -125,8 +141,12 @@
         "level": "90%"
       },
       {
-        "name": "PHP Framework",
-        "level": "80%"
+        "name": "PHP",
+        "level": "100%"
+      },
+      {
+        "name": "Laravel",
+        "level": "100%"
       },
       {
         "name": "MYSQL+PostgreeSQL",
