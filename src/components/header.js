@@ -60,7 +60,7 @@ class Header extends Component {
             <h1 className="responsive-headline">Wahyu Hidayat</h1>
             <h3>
               I'm a <span>{occupation}</span> from Indonesia .I mostly work with
-              Full Stack JavaScript And PHP
+              Full Stack Developer and Mobile Developer
             </h3>
             <hr />
             <ul className="social">{networks}</ul>

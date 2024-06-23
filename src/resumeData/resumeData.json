@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Wahyu Hidayat",
-    "occupation": "Full Stack Engineer",
+    "occupation": "Full Stack Developer and Mobile Developer",
     "description": "I mostly work with Ruby on Rails and JavaScript",
-    "bio": "End to End Product Developer with immense passion towards Rails and React",
+    "bio": " i am  Full Stack Developer and Mobile Developer",
     "email": "kurangwahyu@gmail.com",
     "phone": "085375822726",
     "address": {
@@ -35,42 +35,67 @@
   "resume": {
     "education": [
       {
-        "school": "COURSES KEYWORLD EDUCATION ",
-        "degree": "PROGRAMMING IT",
-        "graduated": "March 2022",
-        "description": "Learned the basics of Web Dev &Mobile Dev "
+        "school": "Universitas Terbuka ",
+        "degree": "Information Systems",
+        "graduated": "April 2024 - Dec 2028 (Expected)",
+        "description": "Bachelor Degree in I studied as a student at Universitas Terbuka in the Information Systems study program Full Online "
       },
+      {
+        "school": "Enigma Camp",
+        "degree": "Mobile Developer",
+        "graduated": "Juni 2024 - AGUSTUS 2024(Expected)",
+        "description": "Learned Mobile Dev React Native Full Online  "
+      },
+
       {
         "school": "BUILD WITH ANGGA Academy",
         "degree": "Software Development",
-        "graduated": "Juni 2023",
+        "graduated": " April 2023 -Mei 2023",
         "description": "Learned the  Full Stack Javascript With React + Node JS "
+      },
+      {
+        "school": "COURSES KEYWORLD EDUCATION ",
+        "degree": " Web Developer -Mobile Developer",
+        "graduated": "Juni 2022 -  2023  April",
+        "description": "Learned the basics of Web Dev &Mobile Dev "
+      },
+      {
+        "school": "MA SYEKH BURHANUDDIN ",
+        "degree": "High School Diploma",
+        "graduated": "2018 Juni-2021 Juli",
+        "description": "High School Diploma in Islamic Religion "
       }
     ],
     "work": [
       {
-        "company": "GARUDA CYBER",
-        "title": " Intern Software Developer ",
+        "company": "PT.GARUDA CYBER",
+        "title": " Node JS | Intership ",
         "years": "Agustus 2022 - November 2022",
-        "description": "Create Multiple APIs for User Needs and integrate Them to the Front End Using Node Programming Languanges JS,Express JS,MYSQL/Postgree SQL "
+        "description": "  Create Multiple APIs for User Needs and integrate Them to the Front End Using Node Programming Languanges JS,Express JS,MYSQL/Postgree SQL "
       },
       {
-        "company": "ASSIST ID",
-        "title": " Software Developer",
-        "years": "November  2022 -April 2023",
-        "description": "Worked on multiple projects using react +RestfullAPI+Material UI."
+        "company": "PT.ASSIST ID",
+        "title": " Web Developer | React JS Developer",
+        "years": "November  2022 -Maret  2023",
+        "description": "Worked on the front end of the Health  Applcation Project Using React Js Web Create an App For Use By Employees And Internally,Using React JS."
       },
       {
         "company": "SMART CENTER INDONESIA",
-        "title": "TEACHING PROGRAMMING IT",
-        "years": "Mei 2023 - Desember 2023",
-        "description": "Teaching Students and Students The Basics of programming so that they  create applications using  javascript,React Js,and Teaching Creating android applications using React Native."
+        "title": "Teaching Full Stack Programming |  Mobile Developer | Part Time",
+        "years": "Nov 2022 – Agustus 2023",
+        "description": "Teaching Students and Students The Basics of programming so that they  create applications using  javascript,React Js,and Teaching Creating android applications using React Native ,Develop and design Mobile Developer Educational applications,such as attendance,discussions,payments used by students or tutors   using  the react native programming languange."
       },
       {
-        "company": "Mulia Sawit AGRO Lestari",
+        "company": "Rhome Theme Studio ",
+        "title": "Web Design| Intership",
+        "years": "Juni 2023 - Agustus 2023",
+        "description": "Create Designs and work on  designing application website designs using Figma."
+      },
+      {
+        "company": "PT Mulia Sawit Agro Lestari",
         "title": "Full Stack Engineer",
         "years": "Agustus 2023 - April 2024",
-        "description": "Developing And Designing Application System Services For Plantations Using React JS | Node JS."
+        "description": "Worked With The IT Departement,to refine and develop Product From Concept to implementation,Worked on Application development  in Plantations For Employee needs,precisely at the Kalimantan Site,Developing And Designing Application System Services For Plantations Using React JS | Node JS,Analyze Millions of data that already  exists in the database and make improvements to make the data more efficient and easy for users to find"
       }
     ],
     "skills": [
