@@ -161,59 +161,9 @@
         "level": "87%"
       }
     ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Project Assist ID ",
-        "description": "Medium Article",
-        "category": "WEB REACT ",
-        "image": "dokter.png",
-        "url": "https://assist.id"
-      },
-      {
-        "title": "SMART CENTER INDONESIA",
-        "description": "React Bubble chart with help of d3.js",
-        "category": "WEBSITE COMPANY Profile",
-        "image": "web.webp",
-        "url": "https://scipekanbaru.com"
-      },
-      {
-        "title": "MSAL GROUP",
-
-        "category": "Project Sistem PALM OIL ",
-        "image": "msal.jpg",
-        "url": "https://msalgroup.com/homepage/about.html"
-      },
-      {
-        "title": "Project Garuda Cyber",
-
-        "category": "Project Intern ",
-        "image": "gci.png",
-        "url": "https://garudacyber.co.id/login"
-      },
-      {
-        "title": "Medical Klinik",
-
-        "category": "App Klinik",
-        "image": "klink.jpeg",
-        "url": "https://pengobatanpenyakitdalam.com/"
-      },
-      {
-        "title": "Dashboard App Financial",
-        "description": "A basic ecommerce application",
-        "category": "Dashboard App Financial Transfer ",
-        "image": "eze.jpeg",
-        "url": "https://ezeelink.co.id/"
-      },
-
-      {
-        "title": "Lottery Draw Freelancer",
-        "description": "Local Multiplayer 2D Game",
-        "category": "Laravel App ",
-        "image": "grend.png",
-        "url": "https://greenlandpools.com/"
-      }
-    ]
   }
 }
+
+
+
+

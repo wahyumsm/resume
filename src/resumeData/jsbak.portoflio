@@ -1,60 +1,54 @@
-  // "portfolio": {
+"portfolio": {
   //   "projects": [
   //     {
-  //       "title": "Articles",
+  //       "title": "Project Assist ID ",
   //       "description": "Medium Article",
-  //       "category": "Medium Article",
-  //       "image": "medium.png",
-  //       "url": "https://shanshaji.medium.com/"
+  //       "category": "WEB REACT ",
+  //       "image": "dokter.png",
+  //       "url": "https://assist.id"
   //     },
   //     {
-  //       "title": "Bubble Chart",
+  //       "title": "SMART CENTER INDONESIA",
   //       "description": "React Bubble chart with help of d3.js",
-  //       "category": "Npm Plugin",
-  //       "image": "js.png",
-  //       "url": "https://www.npmjs.com/package/react-d3-bubble"
+  //       "category": "WEBSITE COMPANY Profile",
+  //       "image": "web.webp",
+  //       "url": "https://scipekanbaru.com"
   //     },
   //     {
-  //       "title": "Table Boy",
-  //       "description": "An easy to use react table with server side pagination and server side sorting, which makes creating tables fun. No jquery dependancy",
-  //       "category": "Npm Plugin",
-  //       "image": "js.png",
-  //       "url": "https://www.npmjs.com/package/table-boy"
+  //       "title": "MSAL GROUP",
+
+  //       "category": "Project Sistem PALM OIL ",
+  //       "image": "msal.jpg",
+  //       "url": "https://msalgroup.com/homepage/about.html"
   //     },
   //     {
-  //       "title": "Just Drag",
-  //       "description": "A HOC which will turn wrapped elements draggable",
-  //       "category": "Npm Plugin",
-  //       "image": "js.png",
-  //       "url": "https://www.npmjs.com/package/just-drag"
+  //       "title": "Project Garuda Cyber",
+
+  //       "category": "Project Intern ",
+  //       "image": "gci.png",
+  //       "url": "https://garudacyber.co.id/login"
   //     },
   //     {
-  //       "title": "Cricket Game",
-  //       "description": "An Incremental design workshop",
-  //       "category": "Ruby",
-  //       "image": "ruby.png",
-  //       "url": "https://github.com/shanshaji/Cricket"
+  //       "title": "Medical Klinik",
+
+  //       "category": "App Klinik",
+  //       "image": "klink.jpeg",
+  //       "url": "https://pengobatanpenyakitdalam.com/"
   //     },
   //     {
-  //       "title": "Ecommerce App",
+  //       "title": "Dashboard App Financial",
   //       "description": "A basic ecommerce application",
-  //       "category": "Ruby",
-  //       "image": "ruby.png",
-  //       "url": "https://github.com/shanshaji/Ecommerce"
+  //       "category": "Dashboard App Financial Transfer ",
+  //       "image": "eze.jpeg",
+  //       "url": "https://ezeelink.co.id/"
   //     },
+
   //     {
-  //       "title": "Mars Rover",
-  //       "description": "Mars Rover Problem Design",
-  //       "category": "Ruby",
-  //       "image": "ruby.png",
-  //       "url": "https://github.com/shanshaji/mars-rover"
-  //     },
-  //     {
-  //       "title": "Dragon PvP Game",
+  //       "title": "Lottery Draw Freelancer",
   //       "description": "Local Multiplayer 2D Game",
-  //       "category": "Dragon Ruby",
-  //       "image": "dragonruby-black.png",
-  //       "url": "https://shanshaji.itch.io/dragon-pvp"
+  //       "category": "Laravel App ",
+  //       "image": "grend.png",
+  //       "url": "https://greenlandpools.com/"
   //     }
   //   ]
   // }
