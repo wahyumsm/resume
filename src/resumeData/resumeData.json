@@ -29,6 +29,11 @@
         "name": "instagram",
         "url": "https://www.instagram.com/wahyuhidayadd/",
         "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/wahyumsm",
+        "className": "fa fa-github"
       }
     ]
   },
