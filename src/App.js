@@ -4,7 +4,7 @@ import About from "./components/about";
 import Resume from "./components/resume";
 import Contact from "./components/contact";
 import Footer from "./components/footer";
-import Portfolio from "./components/portfolio";
+// import Portfolio from "./components/portfolio";
 
 import resumeData from "./resumeData/resumeData.json"; // default import
 
@@ -30,7 +30,7 @@ class App extends Component {
           data={this.state.resumeData.resume}
           title={this.state.resumeData.main.occupation}
         />
-        <Portfolio data={this.state.resumeData.portfolio} />
+        {/* <Portfolio data={this.state.resumeData.portfolio} /> */}
         {/* <Contact data={this.state.resumeData.main} /> */}
         <Footer />
       </div>
