@@ -56,7 +56,7 @@
         "school": "BUILD WITH ANGGA Academy",
         "degree": "Software Development",
         "graduated": " April 2023 -Mei 2023",
-        "description": "Learned the  Full Stack Javascript With React + Node JS "
+        "description": "Learned the  Full Stack Javascript With React + Node JS + React Native"
       },
       {
         "school": "COURSES KEYWORLD EDUCATION ",
@@ -151,6 +151,10 @@
       {
         "name": "MYSQL+PostgreeSQL",
         "level": "88%"
+      },
+      {
+        "name": "AWS CLOUD",
+        "level": "89%"
       },
       {
         "name": "Figma UI",
