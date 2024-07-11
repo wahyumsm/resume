@@ -5,7 +5,7 @@
     "description": "I mostly work with Ruby on Rails and JavaScript",
     "bio": " i am  Full Stack Developer and Mobile Developer",
     "email": "kurangwahyu@gmail.com",
-    "phone": "085375822726",
+    "phone": "+6282284352106 ",
     "address": {
       "street": " Kubang Jaya",
       "city": "Pekanbaru",
@@ -46,9 +46,15 @@
         "description": "Bachelor Degree in I studied as a student at Universitas Terbuka in the Information Systems study program Full Online "
       },
       {
+        "school": "Udemy ",
+        "degree": "Mobile Developer",
+        "graduated": "Sep 2023 –Juli 2024",
+        "description": "Udemy  Full Online  "
+      },
+      {
         "school": "Enigma Camp",
         "degree": "Mobile Developer",
-        "graduated": "Juni 2024 - AGUSTUS 2024(Expected)",
+        "graduated": "Juni 2024 - Sept  2024(Expected)",
         "description": "Learned Mobile Dev React Native Full Online  "
       },
 
