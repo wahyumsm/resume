@@ -40,7 +40,7 @@ class About extends Component {
                     Pekanbaru, Indonesia
                   </span>
                   <br />
-                  <span>085375822726</span>
+                  <span>6282284352106</span>
                   <br />
                   <span>wahyuhidayaddd@gmail.com</span>
                 </p>
